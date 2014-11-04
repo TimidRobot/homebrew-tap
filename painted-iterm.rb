@@ -8,7 +8,6 @@ class PaintedIterm < Formula
   def install
     bin.install Dir["bin/*"]
     prefix.install "LICENSE", "painted_iterm_include.sh", "README.rst"
-    doc.install Dir["docs/*"]
     doc.install_symlink prefix/"README.rst"
   end
 
