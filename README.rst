@@ -2,7 +2,7 @@ Install Formulas
 ================
 
 1. `Install Homebrew`_ — The missing package manager for OS X
-2. Add this "tap" and install ``cmc``::
+2. Add this "tap"::
 
     brew tap TimZehta/tap
 
