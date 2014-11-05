@@ -2,8 +2,8 @@ require "formula"
 
 class PaintedIterm < Formula
   homepage "https://github.com/TimZehta/painted-iterm"
-  url "https://github.com/TimZehta/painted-iterm/archive/1.0.1.tar.gz"
-  sha1 "ad7bee488800bb71dc7a1e82c6908cf31c7d62f0"
+  url "https://github.com/TimZehta/painted-iterm/archive/1.1.0.tar.gz"
+  sha1 "82053b1d4bc99210e97e8ec9b9b099896b4ec379"
 
   def install
     bin.install Dir["bin/*"]
