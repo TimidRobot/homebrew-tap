@@ -17,7 +17,7 @@ Install Formulas
 License
 =======
 
-.. image:: https://img.shields.io/github/license/TimZehta/tap.svg
+.. image:: https://img.shields.io/github/license/TimZehta/homebrew-tap.svg
     :alt: badge: GitHub license (MIT)
     :align: right
     :target: `MIT License`_
