@@ -6,9 +6,10 @@ Install Formulas
 
     brew tap TimZehta/tap
 
-3. Install formulas. For example::
+3. Install desired formulas. For example::
 
     brew install dullaplan
+    brew install mac-civ5-mod-enable
     brew install painted-iterm
 
 .. _`Install Homebrew`: http://brew.sh/#install
