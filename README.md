@@ -6,7 +6,7 @@ formulas for the Homebrew package manager
 ## Install Formulas
 
 1. [Install Homebrew][brewinstall] -- The missing package manager for macOS
-2. Add this "tap"::
+2. Add this "tap":
     ```shell
     brew tap TimidRobot/tap
     ```
@@ -19,6 +19,13 @@ formulas for the Homebrew package manager
     ```
 
 [brewinstall]:http://brew.sh/#install
+
+
+## Homebrew Taps
+
+- [Taps (third-party repositories) — Homebrew Documentation][taps]
+
+[taps]:https://docs.brew.sh/Taps
 
 
 ## License
