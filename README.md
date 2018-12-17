@@ -29,9 +29,12 @@ formulas for the Homebrew package manager
   ControlMaster connections.
 - **[painted-iterm][painted]**: Dynamically colored windows based on hostname,
   IP, or SSH configuration
+- **[solo-agent][soloagent]**: Enable discrete SSH Agents to avoid leaking
+  access across hosts 
 
-[cmc]: https://github.com/TimidRobot/cmc
-[painted]: https://github.com/TimidRobot/painted-iterm
+[cmc]:https://github.com/TimidRobot/cmc
+[painted]:https://github.com/TimidRobot/painted-iterm
+[soloagent]:https://github.com/TimidRobot/solo-agent
 
 
 ### Deprecated
@@ -43,8 +46,8 @@ formulas for the Homebrew package manager
   subscribed Steam mods.~~
   - Sid Meier's Civilization VI is the current version
 
-[dullaplan]: https://github.com/TimidRobot/dullaplan
-[civ5]: https://github.com/TimidRobot/mac-civ5-mod-enable
+[dullaplan]:https://github.com/TimidRobot/dullaplan
+[civ5]:https://github.com/TimidRobot/mac-civ5-mod-enable
 
 
 ## About Homebrew Taps
@@ -67,4 +70,4 @@ formulas for the Homebrew package manager
 
 - [`LICENSE`](LICENSE) (Expat/[MIT][mit] License)
 
-[mit]: http://www.opensource.org/licenses/MIT "The MIT License | Open Source Initiative"
+[mit]:http://www.opensource.org/licenses/MIT "The MIT License | Open Source Initiative"
