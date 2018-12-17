@@ -36,11 +36,11 @@ formulas for the Homebrew package manager
 
 ### Deprecated
 
-- [dullaplan][dullaplan]: Makin' it easy to connect to a headless Crashplan
-  server
+- [dullaplan][dullaplan]: ~~makin' it easy to connect to a headless Crashplan
+  server~~
   - Code42 ceased support for non-business Crashplan
-- [mac-civ5-mod-enable][civ5]: Updates Mac Civ5 to enable mods and installs
-  subscribed Steam mods.
+- [mac-civ5-mod-enable][civ5]: ~~Updates Mac Civ5 to enable mods and installs
+  subscribed Steam mods.~~
   - Sid Meier's Civilization VI is the current version
 
 [dullaplan]: https://github.com/TimidRobot/dullaplan
@@ -57,8 +57,8 @@ formulas for the Homebrew package manager
 ## Support
 
 - **cmc**
-  - Portions of the development of this project (and the supporting tap)  were
-    supported by [ClockworkNet][Clockwork]. Thank you!
+  - Portions of the development of the `cmc` project (and this supporting tap)
+    were supported by [ClockworkNet][Clockwork]. Thank you!
 
 [Clockwork]: https://github.com/ClockworkNet
 
