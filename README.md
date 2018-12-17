@@ -54,7 +54,7 @@ formulas for the Homebrew package manager
 [taps]:https://docs.brew.sh/Taps
 
 
-## Support
+## Supported By
 
 - **cmc**
   - Portions of the development of the `cmc` project (and this supporting tap)
