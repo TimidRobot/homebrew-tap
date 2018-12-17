@@ -56,8 +56,9 @@ formulas for the Homebrew package manager
 
 ## Support
 
-Portions of the development of this project were supported by
-[ClockworkNet][Clockwork]. Thank you!
+- **cmc**
+  - Portions of the development of this project (and the supporting tap)  were
+    supported by [ClockworkNet][Clockwork]. Thank you!
 
 [Clockwork]: https://github.com/ClockworkNet
 
