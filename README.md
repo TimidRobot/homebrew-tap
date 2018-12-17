@@ -26,7 +26,7 @@ formulas for the Homebrew package manager
 
 ### Active
 
-- **[cmc][cmc]**: ControlMaster Controller - Eases management of SSHi
+- **[cmc][cmc]**: ControlMaster Controller - Eases management of SSH
   ControlMaster connections.
 - **[painted-iterm][painted]**: Dynamically colored windows based on hostname,
   IP, or SSH configuration
