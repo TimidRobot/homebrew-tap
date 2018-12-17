@@ -15,6 +15,7 @@ formulas for the Homebrew package manager
     ```shell
     brew install cmc
     brew install painted-iterm
+    brew install solo-agent
     ```
 
 [brewinstall]:http://brew.sh/#install
