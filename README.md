@@ -2,6 +2,13 @@
 
 formulas for the Homebrew package manager
 
+> :warning: **The *default* branch was updated to `main`. To fix your Homebrew
+> tap:**
+> ```shell
+> brew untap TimidRobot/tap
+> brew tap TimidRobot/tap
+> ```
+
 
 ## Install Formulas
 
