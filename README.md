@@ -50,7 +50,7 @@ formulas for the Homebrew package manager
 - [mac-civ5-mod-enable][mac-civ5]: ~~Updates Mac Civ5 to enable mods and
   installs subscribed Steam mods.~~
   - Sid Meier's Civilization VI is the current version
-- [painted-iterm][painted: ~~Dynamically colored windows based on hostname,
+- [painted-iterm][painted]: ~~Dynamically colored windows based on hostname,
   IP, or SSH configuration~~
   - macOS does not allow window modifications (only the tab color changes)
   - Best practices for SSH include using master control sessions and SSH local
