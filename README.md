@@ -35,13 +35,10 @@ formulas for the Homebrew package manager
 
 - **[cmc][cmc]**: ControlMaster Controller - Eases management of SSH
   ControlMaster connections.
-- **[painted-iterm][painted]**: Dynamically colored windows based on hostname,
-  IP, or SSH configuration
 - **[solo-agent][soloagent]**: Enable discrete SSH Agents to avoid leaking
   access across hosts 
 
 [cmc]:https://github.com/TimidRobot/cmc
-[painted]:https://github.com/TimidRobot/painted-iterm
 [soloagent]:https://github.com/TimidRobot/solo-agent
 
 
@@ -50,12 +47,19 @@ formulas for the Homebrew package manager
 - [dullaplan][dullaplan]: ~~makin' it easy to connect to a headless Crashplan
   server~~
   - Code42 ceased support for non-business Crashplan
-- [mac-civ5-mod-enable][civ5]: ~~Updates Mac Civ5 to enable mods and installs
-  subscribed Steam mods.~~
+- [mac-civ5-mod-enable][mac-civ5]: ~~Updates Mac Civ5 to enable mods and
+  installs subscribed Steam mods.~~
   - Sid Meier's Civilization VI is the current version
+- [painted-iterm][painted: ~~Dynamically colored windows based on hostname,
+  IP, or SSH configuration~~
+  - macOS does not allow window modifications (only the tab color changes)
+  - Best practices for SSH include using master control sessions and SSH local
+    commands are per connection, not per session.
+
 
 [dullaplan]:https://github.com/TimidRobot/dullaplan
-[civ5]:https://github.com/TimidRobot/mac-civ5-mod-enable
+[mac-civ5]:https://github.com/TimidRobot/mac-civ5-mod-enable
+[painted]:https://github.com/TimidRobot/painted-iterm
 
 
 ## About Homebrew Taps
