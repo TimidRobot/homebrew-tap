@@ -58,15 +58,6 @@ formulas for the Homebrew package manager
 [taps]:https://docs.brew.sh/Taps
 
 
-## Supported By
-
-- **cmc**
-  - Portions of the development of the `cmc` project (and this supporting tap)
-    were supported by [ClockworkNet][Clockwork]. Thank you!
-
-[Clockwork]: https://github.com/ClockworkNet
-
-
 ## License
 
 - [`LICENSE`](LICENSE) (Expat/[MIT][mit] License)
