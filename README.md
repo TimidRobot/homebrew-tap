@@ -35,7 +35,7 @@ formulas for the Homebrew package manager
 - **[cmc][cmc]**: ControlMaster Controller - Eases management of SSH
   ControlMaster connections.
 - **[solo-agent][soloagent]**: Enable discrete SSH Agents to avoid leaking
-  access across hosts 
+  access across hosts
 
 [cmc]:https://github.com/TimidRobot/cmc
 [soloagent]:https://github.com/TimidRobot/solo-agent
@@ -51,7 +51,8 @@ formulas for the Homebrew package manager
   - Sid Meier's Civilization VI is the current version
 - [painted-iterm][painted]: ~~Dynamically colored windows based on hostname,
   IP, or SSH configuration~~
-  - macOS does not allow window modifications (only the tab color changes)
+  - macOS no longer allows window modifications (now, only the tab color
+    changes)
   - Best practices for SSH include using master control sessions and SSH local
     commands are per connection, not per session.
 
