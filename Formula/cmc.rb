@@ -2,8 +2,8 @@ require 'formula'
 
 class Cmc < Formula
   homepage 'https://github.com/TimidRobot/cmc'
-  url 'https://github.com/TimidRobot/cmc/archive/1.2.1.tar.gz'
-  sha256 '7097dd81697b85de4532445d23b96726410100c43fa9b4a4ce83da9c0a9246e8'
+  url 'https://github.com/TimidRobot/cmc/archive/1.2.2.tar.gz'
+  sha256 'e5dfa632de4c310b997cb9214b3cdfc903c62ae512da1181342dd4a3dea3dd08'
 
   def install
     bin.install 'cmc'
